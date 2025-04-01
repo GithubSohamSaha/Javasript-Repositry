@@ -5,7 +5,7 @@ Variables are used to store data that can be used later in the program.
 Variables can hold different types of data, such as numbers, strings, and objects.
 In JavaScript, we can create variables using the keywords `var`, `let`, or `const`.
 
-The `var` old method of declaring variables, which are not uded anymore because of some issues.
+The `var` old method of declaring variables, which are not used anymore because of some issues.
 which are:
 1. Variables declared with `var` are function-scoped, meaning they are only accessible within the function they are declared in.
 2. Variables declared with `var` can be re-declared and updated within the same scope, which can lead to confusion and bugs in the code.
