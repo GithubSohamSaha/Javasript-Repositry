@@ -1,4 +1,5 @@
 /*
+Date 01-04-2025
 Today we will learn about variables in JavaScript.
 Variables are used to store data that can be used later in the program.
 Variables can hold different types of data, such as numbers, strings, and objects.
