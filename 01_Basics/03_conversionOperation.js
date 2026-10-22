@@ -37,5 +37,27 @@ newValue4 = Boolean(value4)
 //in same way any non-empty string is converted to true when converted to boolean
 console.log(typeof value4)
 console.log(typeof newValue4)
-//this is the end of the code snippet
+
+//----------------operations-------------------
+
+let example = 3
+
+//string concatenation
+str1 = "Hello"
+str2 = "World"
+//console.log(str1 + " " + str2) 
+// this will return Hello World  
+
+console.log("1" + 3)
+console.log(1 + "3")
+
+//this will return 13 because the first operand is a string and the second operand is a number, so the number is converted to a string and concatenated with the first operand
+console.log("1" + 2 + 2)
+
+//this will return 32 because the first operand is a number and the second operand is a string, so the number is converted to a string and concatenated with the first operand
+console.log(1 + 2 + "2")
+
+
+
+
 
