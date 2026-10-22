@@ -37,4 +37,5 @@ newValue4 = Boolean(value4)
 //in same way any non-empty string is converted to true when converted to boolean
 console.log(typeof value4)
 console.log(typeof newValue4)
+//this is the end of the code snippet
 
