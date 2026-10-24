@@ -35,3 +35,12 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+//------------------types of memory in JS-------------------
+
+// 1. Stack memory - stores primitive data types
+// -> you will get the copy of the value when you assign a primitive data type to another variable
+
+// 2. Heap memory - stores reference data types 
+// -> you will get the reference of the value when you assign a reference data type to another variable
